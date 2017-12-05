@@ -1,0 +1,3 @@
+Options: 
+
+Options:-DCMAKE_PREFIX_PATH=/home/pos/Qt/5.9.1/gcc_64/lib/cmake

@@ -1,0 +1,4 @@
+/opt/clion-2017.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/home/pos/Qt/5.9.1/gcc_64/lib/cmake -G "CodeBlocks - Unix Makefiles" /home/pos/development/Stonify
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pos/development/Stonify/cmake-build-debug

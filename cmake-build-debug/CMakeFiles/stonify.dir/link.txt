@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stonify.dir/main.cpp.o  -o stonify -Wl,-rpath,/home/pos/Qt/5.9.1/gcc_64/lib /home/pos/Qt/5.9.1/gcc_64/lib/libQt5Widgets.so.5.9.1 /home/pos/Qt/5.9.1/gcc_64/lib/libQt5Gui.so.5.9.1 /home/pos/Qt/5.9.1/gcc_64/lib/libQt5Core.so.5.9.1 
